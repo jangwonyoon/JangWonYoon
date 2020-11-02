@@ -1,10 +1,11 @@
-### Impact를 만드는 웹 개발자 윤장원입니다 👨‍💻
+### Impact를 만드는 Junior Web Developer 윤장원입니다 👨‍💻
 
 [![velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square)](https://velog.io/@jangwonyoon/series)
 [![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jimmy53120488@gmail.com)](mailto:yoonajangwon94@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jangwon_diego_yoon/)](https://www.instagram.com/jangwon_diego_yoon/)
 
-# 이런 경험이 있어요
+### 이런 경험이 있어요
+---
 
 ### Main Skills
 [![javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
