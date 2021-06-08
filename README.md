@@ -1,7 +1,15 @@
+<div>
+    <img 
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjangwonyoon%2Fhit-counter&count_bg=%236495ED&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img 
+        src="https://img.shields.io/github/followers/jangwonyoon?style=social"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</div>
+
+
 ### Impact를 만드는 front-end Developer 윤장원입니다 👨‍💻
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjangwonyoon%2Fhit-counter&count_bg=%236495ED&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+---
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://velog.io/@jangwonyoon/series)](https://velog.io/@jangwonyoon/series)
 [![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jimmy53120488@gmail.com)](mailto:yoonajangwon94@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004439202207)](https://www.facebook.com/profile.php?id=100004439202207)
@@ -27,6 +35,5 @@
 [![apollo Badge](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)](#)
 [![jwt Badge](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)](#)
 
----
 
 [![Jangwon's github stats](https://github-readme-stats.vercel.app/api?username=jangwonyoon)](https://github.com/jangwonyoon/github-readme-stats)
