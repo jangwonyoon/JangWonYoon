@@ -1,5 +1,7 @@
 ### Impact를 만드는 front-end Developer 윤장원입니다 👨‍💻
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjangwonyoon%2Fhit-counter&count_bg=%236495ED&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://velog.io/@jangwonyoon/series)](https://velog.io/@jangwonyoon/series)
 [![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jimmy53120488@gmail.com)](mailto:yoonajangwon94@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004439202207)](https://www.facebook.com/profile.php?id=100004439202207)
