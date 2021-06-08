@@ -9,7 +9,9 @@
 
 
 ### Impact를 만드는 front-end Developer 윤장원입니다 👨‍💻
----
+
+<br />
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://velog.io/@jangwonyoon/series)](https://velog.io/@jangwonyoon/series)
 [![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jimmy53120488@gmail.com)](mailto:yoonajangwon94@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004439202207)](https://www.facebook.com/profile.php?id=100004439202207)
@@ -35,5 +37,12 @@
 [![apollo Badge](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)](#)
 [![jwt Badge](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)](#)
 
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=jangwonyoon&show_icons=true&theme=radical"
+         style="height : auto; margin-left : 10px; margin-right : 10px;"
+         />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangwonyoon&layout=compact" 
+        style="height : auto; margin-left : 100px; margin-right : 10px;" />
+</div>
+    
 
-[![Jangwon's github stats](https://github-readme-stats.vercel.app/api?username=jangwonyoon)](https://github.com/jangwonyoon/github-readme-stats)
