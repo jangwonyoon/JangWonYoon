@@ -35,14 +35,5 @@
 [![aws Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](#)
 [![graphql Badge](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](#)
 [![apollo Badge](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)](#)
-[![jwt Badge](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)](#)
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=jangwonyoon&show_icons=true&theme=radical"
-         style="height : auto; margin-left : 10px; margin-right : 10px;"
-         />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangwonyoon&layout=compact" 
-        style="height : auto; margin-left : 100px; margin-right : 10px;" />
-</div>
     
 
