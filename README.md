@@ -7,7 +7,7 @@ React, Next.js, TypeScript, TailwindCSS를 중심으로 클라우드 콘솔 UI/U
 
 ### ✅ Experience
 
-* **KINX** Cloud Dev Group , Web Frontend (2021.09 ~ NOW)
+* **KINX Cloud Dev Group** , Frontend developer (2021.09 ~ NOW)
 
 ### 🚀 Activity
 
