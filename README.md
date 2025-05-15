@@ -1,11 +1,6 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/jangwonyoon" />
-</a>
-
-
 ### 👋 About Me
 
-프론트엔드 경력 4년차 개발자입니다.  
+안녕하세요. 프론트엔드 경력 4년차 개발자 윤장원입니다.
 React, Next.js, TypeScript, TailwindCSS를 중심으로 클라우드 콘솔 UI/UX를 개발하고 있습니다.  
 사용자 경험과 접근성, 유지보수 가능한 아키텍처에 깊은 관심을 가지고 있으며,  
 **성장과 공유**를 위해 다양한 활동과 학습을 이어가고 있습니다.
@@ -39,4 +34,7 @@ React, Next.js, TypeScript, TailwindCSS를 중심으로 클라우드 콘솔 UI/U
 
 - ⚽️ **홍익대 컴퓨터정보통신공학과 축구동아리 Ares 15대 회장** (2017.12 ~ 2018.12, 150명 규모)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/jangwonyoon" />
+</a>
 
