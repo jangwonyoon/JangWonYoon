@@ -5,7 +5,6 @@
 ### Frontend Engineer who designs for **system constraints** & **team productivity**
 
 [![Notion Resume](https://img.shields.io/badge/Resume-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Front-end-1-334de71aaa9f8025ac99e9e51f46d3f4)
-[![GitHub](https://img.shields.io/badge/GitHub-jangwonyoon-181717?style=for-the-badge&logo=github)](https://github.com/jangwonyoon)
 
 </div>
 
@@ -32,7 +31,7 @@
 
 | Period | Company | Role |
 |--------|---------|------|
-| **2025.12 ~** | **Kakao Healthcare** 솔루션개발팀 | FE — HRS 의료 데이터 B2B SaaS 플랫폼 (폴링 아키텍처 재설계 · AI 도구 구축) |
+| 2025.12 ~ | **Kakao Healthcare** 솔루션개발팀 | FE — HRS 의료 데이터 B2B SaaS 플랫폼 (폴링 아키텍처 재설계 · AI 도구 구축) |
 | 2021.09 ~ 2025.11 | **KINX** 클라우드개발그룹 | Lead FE — 클라우드 콘솔 설계·구축·운영 (1인 FE, E2E 오너십) |
 
 <br/>
@@ -157,13 +156,6 @@
 ---
 
 <div align="center">
-
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=jangwonyoon&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangwonyoon&layout=compact&theme=default&hide_border=true" height="165" />
-
-<br/><br/>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/jangwonyoon" width="600" />
